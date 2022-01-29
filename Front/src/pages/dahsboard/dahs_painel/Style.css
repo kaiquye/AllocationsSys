@@ -1,0 +1,44 @@
+.mainAllAlocations{
+    
+}
+.mainAllAlocations h1{
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 40px;
+}
+.infoAllAllocations{
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: auto auto;
+    font-size: 16px;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.btnsAlocas button{
+    padding: 5px;
+    border-radius: 40px;
+}
+
+.infoAllAllocations div {
+    align-items: center;
+    justify-content: center;
+    background-color: #D636F7;
+    font-family: sans-serif;
+    color: white;
+}
+.myallocationsAllAllocations{
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+}
+.myallocationsAllAllocations:hover{
+    color: #D636F7;
+}
+.btnAllAllocations{
+    width: 100%;
+}
+.btnAllAllocations button{
+    height: 50px;
+    margin-top: 1px;
+}
